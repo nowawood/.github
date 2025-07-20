@@ -18,14 +18,6 @@ Wir sind **NowaWood**, eine Tischlerei aus Schwerin, die modernes Handwerk mit n
 
 ---
 
-### 📍 Standort
-
-**Werderstraße 19A**  
-**19055 Schwerin, Mecklenburg-Vorpommern**  
-**Deutschland**
-
----
-
 ### 🪵 Unsere Werte
 
 **Nachhaltigkeit**, **Präzision**, **Beratung auf Augenhöhe**  
