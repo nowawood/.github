@@ -1,32 +1,38 @@
-# Johann Nowack Tischlerei NowaWood
+# 🌲 Johann Nowack Tischlerei NowaWood
 
-![NowaWood Logo](/profile/nowawood_brand-horizontal_icon.png?raw=true)
+![NowaWood Logo](/profile/nowawood_brand-horizontal_icon.png)
 
 > **Slogan:** Guter Slogan.
 
-## Beschreibung
+---
 
-Tolle Beschreibung hier.
+### 🛠️ Über uns
+
+Wir sind **NowaWood**, eine Tischlerei aus Schwerin, die modernes Handwerk mit natürlichem Material verbindet. Unser Fokus liegt auf:
+
+- Innenausbau
+- Holzverarbeitung
+- Beratung und Planung
+- Maßanfertigung
+- Qualität & Nachhaltigkeit
+
+🔨 Handwerk mit Leidenschaft – seit **2021**.
 
 ---
 
-## Unternehmensinformationen
+### 📍 Standort
 
-- **Name:** Johann Nowack Tischlerei NowaWood  
-- **Alternativname:** Nowawood 
-- **Gründungsjahr:** 2021  
-- **Gründungsort:** Schwerin 
-- **Branchen-Schlagworte:** Holz, Handwerk, Beratung, Innenausbau, Tischlerei  
+**Werderstraße 19A**  
+**19055 Schwerin, Mecklenburg-Vorpommern**  
+**Deutschland**
 
 ---
 
-## Kontakt
+### 🪵 Unsere Werte
 
-- **Adresse:**  
-  Werderstraße 19A  
-  19055 Schwerin, MV  
-  Deutschland
-  
+**Nachhaltigkeit**, **Präzision**, **Beratung auf Augenhöhe**  
+Weil gutes Handwerk nicht von Maschinen, sondern von Menschen lebt.
+
 ---
 
 © Johann Nowack Tischlerei NowaWood
