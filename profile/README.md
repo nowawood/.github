@@ -1,6 +1,6 @@
 # Johann Nowack Tischlerei NowaWood
 
-![NowaWood Logo](/nowawood_brand-horizontal_icon.png)
+![NowaWood Logo](https://github.com/nowawood/.github/blob/master/profile/nowawood_brand-horizontal_icon.png?raw=true)
 
 > **Slogan:** Guter Slogan.
 
