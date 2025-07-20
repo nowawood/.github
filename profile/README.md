@@ -1,8 +1,6 @@
-<h1 align="center">🌲 Johann Nowack Tischlerei NowaWood</h1>
+# 🌲 Johann Nowack Tischlerei NowaWood
 
-<p align="center">
-  <img src="/profile/nowawood_brand-horizontal_icon.png" alt="NowaWood Logo" width="300"/>
-</p>
+<img src="/profile/nowawood_brand-horizontal_icon.png" alt="NowaWood Logo" height="300"/>
 
 > **Slogan:** Guter Slogan.
 
